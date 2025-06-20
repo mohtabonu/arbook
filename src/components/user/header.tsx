@@ -5,7 +5,7 @@ export const Header: FunctionComponent = () => {
     return ( 
         <div className="flex items-center justify-between">
             <a href="index.html" className="flex items-end gap-3">
-                <img width="80px" src="./src/assets/icon.png" alt="logo" />
+                <img width="80px" src="/assets/icon.png" alt="logo" />
                 <h2 className="font-bold text-[35px] text-orange-600 ">AR BOOK</h2>
             </a>
 
